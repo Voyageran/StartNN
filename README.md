@@ -13,5 +13,13 @@
       - 1.pytorch_basic
       - 2.linear_NN
       - 3.Perceptron
+      - 4.Pytorch_NN
+      - 5.RW
+      - 6.HowToUsingGPU
+      - 7.Convolution
+      - 8.PaddingStride
+      - 9.MultipleChannels
+      - 10.Pooling
+      - 11.LeNets
   - Kaggle项目练习
   - 大型项目/经典论文实现
